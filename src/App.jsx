@@ -187,7 +187,7 @@ function App() {
                 <h1 className="text-5xl">Still Running,</h1>
                 <h1 className="text-3xl">Not Hunting</h1>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Hellow guys!!!, this design is not responsive yet & its made for the demonstration of gsap. I hope you liked the design<i class="ri-heart-3-fill"></i>
+                  Hellow guys!!!, this design is not responsive yet & its made for the demonstration of gsap. I hope you liked the design, sometimes font might not work correctly. it's recommended to open this design on laptop or desktop screens.<i class="ri-heart-3-fill"></i>
                 </p>
                 <button className="bg-yellow-500 px-10 py-10 text-black mt-10 text-4xl">
                   Download Now
