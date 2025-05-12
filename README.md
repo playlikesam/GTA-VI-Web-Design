@@ -1,12 +1,25 @@
-# React + Vite
+# 🎮 GTA-VI-Web-Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **visually immersive web interface** inspired by the aesthetics and vibes of **GTA VI** — reimagined as a stylish, modern website. It’s **not a game**, but a frontend experiment pushing the boundaries of animated web experiences using **React** and **GSAP**.
 
-Currently, two official plugins are available:
+<p float="left">
+  <img src="img1.png" width="45%" alt="Homepage View" />
+  <img src="img2.png" width="45%" alt="Animated Transition View" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🎨 **Immersive Visual Design** — edgy, neon-drenched UI inspired by the GTA VI trailer.
+- 🎞️ **Smooth GSAP Transitions** — powered by GreenSock Animation Platform for fluid visuals.
+- ⚙️ **Interactive Components** — built with React for fast, reactive UI elements.
+- 📱 **Responsive Layout** — adapts beautifully to different screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- **React.js**
+- **GSAP (GreenSock Animation Platform)**
+- **HTML5 / CSS3 / JavaScript**
+- **Responsive Design Techniques**
+
+## 📸 Project Snapshots
+
